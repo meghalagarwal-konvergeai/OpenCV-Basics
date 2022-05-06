@@ -1,0 +1,1 @@
+Basic Understanding of all the commands of OpenCV
