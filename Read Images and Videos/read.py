@@ -3,7 +3,7 @@ import cv2 as cv
 
 # Display of Images on a new Window
 img = cv.imread("Photos/kid.jpg")
-cv.imshow("Parrot", img)
+cv.imshow("Kid", img)
 cv.waitKey(0)
 
 
